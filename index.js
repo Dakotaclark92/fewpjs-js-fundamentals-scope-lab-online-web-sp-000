@@ -6,6 +6,7 @@ function myAnimal() {
 }
 
 function yourAnimal() {
+  let animal = "cat"
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
@@ -13,6 +14,7 @@ function yourAnimal() {
 }
 
 function add2(n) {
+  const = 2
   return n + two
 
   // Feel free to move things around!
